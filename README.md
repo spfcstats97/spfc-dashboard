@@ -1,6 +1,6 @@
 # 📊 Dashboard de Desempenho do São Paulo FC
 
-![Dashboard SPFC](caminho/para/sua/imagem.png)
+![Dashboard SPFC]([caminho/para/sua/imagem.png](https://pbs.twimg.com/media/Ecp-yS1XgAQRyfS.jpg))
 
 ## 📌 Sobre o Projeto
 
